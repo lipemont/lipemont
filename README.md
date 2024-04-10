@@ -10,6 +10,7 @@
 ## Sobre Mim:
 [![Felipe GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lipemont&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lipemont/github-readme-stats#gh-dark-mode-only)
 [![Felipe GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lipemont&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lipemont/github-readme-stats#gh-light-mode-only)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lipemont&layout=compact&theme=dark"
