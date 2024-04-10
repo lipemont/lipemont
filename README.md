@@ -1,5 +1,4 @@
-### Olá, seja bem-vindo ao meu GitHub!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=B80E00&random=true&width=435&lines=Bem-vindo+ao+meu+GitHub;E+se+voc%C3%AA+me+seguisse%3F;Feito+por+Felipe+Monteiro)](https://git.io/typing-svg)
 ![Gatinho programando](https://github.com/lipemont/lipemont/assets/162990243/1118c717-cf11-4c65-9291-6b1baf624d0d)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/wZnAQ7WX)
