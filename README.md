@@ -6,5 +6,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lipemontx_)
 </br>
 ## Sobre Mim:
-[![Felipe GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lipemont/github-readme-stats#gh-dark-mode-only)
-[![Felipe GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lipemont/github-readme-stats#gh-light-mode-only)![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemont&layout=compact)
+[![Felipe GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lipemont&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lipemont/github-readme-stats#gh-dark-mode-only)
+[![Felipe GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lipemont&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lipemont/github-readme-stats#gh-light-mode-only)![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemont&layout=compact)
